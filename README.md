@@ -3,7 +3,7 @@
 ## bibliografia
 
 # membranas 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3856022/ (Transmembrane Protein Fused in Bilayer Lipid Membrane on Porous Silicon (PSi))
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3856022/ (Engineering Lipid Bilayer Membranes for Protein Studies) review
 
 https://www.ncbi.nlm.nih.gov/pubmed/17060909 (AFM de dos cámaras: proteínas de membrana de sonda que separan dos compartimentos acuosos.) funcionalidad de las proteinas
 
