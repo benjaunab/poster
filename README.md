@@ -16,3 +16,6 @@ https://sci-hub.cc/https://www.nature.com/nmeth/journal/v3/n12/full/nmeth965.htm
 http://sci-hub.cc/http://www.tandfonline.com/doi/abs/10.3109/03091902.2012.733056?journalCode=ijmt20
 
 http://sci-hub.cc/http://pubs.acs.org/doi/abs/10.1021/la303047v
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4759691/ (grafeno)
