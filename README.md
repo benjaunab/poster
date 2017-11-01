@@ -19,3 +19,5 @@ http://sci-hub.cc/http://pubs.acs.org/doi/abs/10.1021/la303047v
 
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4759691/ (grafeno)
+
+https://www.researchgate.net/figure/274008173_fig2_Figure-2-A-Scanning-Electron-Microscope-image-of-the-device-carrying-the-porous-silicon se describe como preparar el soporte de silicio y la membrana lipidica
